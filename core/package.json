@@ -51,7 +51,7 @@
     "@continuedev/llm-info": "^1.0.2",
     "@continuedev/openai-adapters": "^1.0.10",
     "@modelcontextprotocol/sdk": "^1.5.0",
-    "@mozilla/readability": "^0.5.0",
+    "@mozilla/readability": "^0.6.0",
     "@octokit/rest": "^20.1.1",
     "@typescript-eslint/eslint-plugin": "^7.8.0",
     "@xenova/transformers": "2.14.0",
